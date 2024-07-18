@@ -1,4 +1,4 @@
 # ControleDeFluxo-Desafio-Java-DIO
-Desafio: O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números o sistema deverá obter a quantidade (número 1 - número 2) de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados.
+Desafio: O sistema recebe dois números inteiros via terminal, calcula a diferença entre os dois números e realiza a impressão no console de uma sequêmcia de números até o limite da diferença calculada.
 
-Condição: Se o número 2 for maior que o número 1 o sistema deve lançar uma exceção.
+Se o número 2 for maior que o número 1 o sistema lança uma exceção.
